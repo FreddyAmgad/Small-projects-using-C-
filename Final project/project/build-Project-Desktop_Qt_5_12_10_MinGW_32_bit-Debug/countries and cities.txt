@@ -1,0 +1,6 @@
+Egypt:Cairo:Giza
+Canada:Quebec:Yukon
+Lebanon:Sidon:Beirut
+China:Shanghai:Beijing
+Indonesia:Jakarta:Bali
+Australia:BlackTown:CandaBay
