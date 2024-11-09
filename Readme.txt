@@ -1,5 +1,18 @@
-This project is a travel management system that allows users to sign up and log in. 
-Once logged in, users can register for flights and cruises, with the system utilizing a shortest path algorithm to find the most efficient routes. 
-Trip prices are calculated based on various factors, including distance and accommodations. 
-Additionally, users can make hotel reservations through the system. 
-Each user account is linked to a Visa account, enabling convenient payments via card or cash.
+# Project Overview
+
+This repository contains multiple OOP-based applications using various data structures.
+
+## Clinic Reservation System
+- Users can register for appointments with doctors across different specializations.
+- Patients can choose appointment priority and view doctor availability.
+- Utilizes data structures to manage patient information, doctor schedules, and appointment details.
+
+## ATM System
+- A small banking system that simulates core banking functions like balance inquiries, deposits, and withdrawals.
+- Allows users to securely access account information and perform transactions.
+- Implements data structures to store account details and process transactions efficiently.
+
+## Restaurant Management System
+- Manages orders, staff, and customer interactions within a restaurant.
+- Customers can place orders, view the menu, and staff can update order statuses.
+- Uses data structures for tracking orders, managing staff assignments, and customer information.
